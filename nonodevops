@@ -1,0 +1,10 @@
+#!/bin/bash
+
+pwd
+id
+if [ lsblk (2) ]
+then 
+echo
+echo "cpu nos is great fot the job"
+exit 1
+fi
